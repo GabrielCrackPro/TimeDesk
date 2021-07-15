@@ -27,5 +27,3 @@ Run Applicaiton
 ```
 npm start
 ```
-
-## TODO
