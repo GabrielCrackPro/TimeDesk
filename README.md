@@ -9,7 +9,8 @@ A time management app with electron
 - Chrono - with separate slots
 - Timer - with notifications
 
-## Development Environment
+## Development Environment
+
 Clone Repository
 
 ```
