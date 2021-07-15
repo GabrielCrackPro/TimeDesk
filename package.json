@@ -1,0 +1,23 @@
+{
+  "name": "timedesk",
+  "version": "1.0.0",
+  "description": "A time management app with electron",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCrackPro/TimeDesk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCrackPro/TimeDesk/issues"
+  },
+  "homepage": "https://github.com/GabrielCrackPro/TimeDesk#readme",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
